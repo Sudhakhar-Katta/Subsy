@@ -164,7 +164,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - satyakatta11@gmail.com
 
-Project Link: [https://github.com/yourusername/subsy](https://github.com/yourusername/subsy)
+Project Link: https://github.com/Sudhakhar-Katta/Subsy)](https://github.com/Sudhakhar-Katta/Subsy)
 
 ## Acknowledgements
 
